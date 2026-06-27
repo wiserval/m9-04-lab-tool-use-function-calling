@@ -1,0 +1,2 @@
+# Environment variables — contains the real GOOGLE_API_KEY, never commit
+.env
